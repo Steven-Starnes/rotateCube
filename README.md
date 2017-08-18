@@ -1,2 +1,2 @@
 # rotateCube
-Click here https://htmlpreview.github.com/?https://github.com/Steven-Starnes/rotateCube/rotateCube.html
+<a href="http://htmlpreview.github.io/?https://github.com/Steven-Starnes/rotateCube/blob/master/rotateCube.html">Click here to see</a>
